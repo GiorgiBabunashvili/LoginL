@@ -1,5 +1,7 @@
 body {
-  background-color: #ccc;
+  background-image: url(pexels-codioful-7130503.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
   display: flex;
   align-items: center;
   justify-content: center;
